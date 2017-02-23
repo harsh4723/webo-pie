@@ -1,0 +1,17 @@
+{
+	"manifest_version":2,
+	"name":"clicy",
+	"description":"first extension",
+	"version":"1.0",
+	"browser_action":{
+	"default_icon":"icon.png"
+	},
+	"icons":{
+	"64":"icon.png"},
+	"chrome_url_overrides":{
+	    "newtab":"newtab.html"
+		}
+	
+	
+
+}
